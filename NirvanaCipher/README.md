@@ -19,7 +19,7 @@ NirvanaCipher is a file encryption tool designed to provide robust security for 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ari-111/NirvanaCipher.git
+git clone https://github.com/gauripandey/Nirvana-Cipher.git
 cd NirvanaCipher
 
 
